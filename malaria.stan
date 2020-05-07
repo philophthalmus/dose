@@ -57,7 +57,7 @@ functions {
         /*########## (define) fixed  parameters ##########*/
         R_hat = x_i[1];
         max_iRBC  = x_i[2];
-	    n_difeq  = x_i[5];
+	n_difeq  = x_i[5];
 
         p = x_r[1];
         mu = x_r[3];
