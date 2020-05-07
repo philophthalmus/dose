@@ -1,3 +1,3 @@
 Stan code for:
 
-Kamiya et al. 2020 PLOS Computational Biology
+Kamiya et al. 2020 PLOS Computational Biology (in revision)
